@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "mwrfths_variety_mod:reinforced_cobblestone",
+    "mwrfths_variety_mod:reinforced_cobblestone_slab",
+    "mwrfths_variety_mod:reinforced_cobblestone_stairs",
+    "mwrfths_variety_mod:reinforced_cobblestone_wall"
+  ]
+}
