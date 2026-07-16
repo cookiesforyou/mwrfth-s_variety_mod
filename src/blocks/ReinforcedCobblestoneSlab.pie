@@ -1,4 +1,0 @@
-define block ReinforcedCobblestoneSlab:
-    hardness = 10.0
-    block_type = "slab"
-    texture = "reinforced_cobblestone"

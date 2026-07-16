@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "mwrfths_variety_mod:block/reinforced_cobblestone"
+  }
+}

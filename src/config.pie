@@ -1,6 +1,0 @@
-config:
-    clock_Enabled = true
-    show_TimeOfDay = true
-    show_CPS = false
-    show_CurrentWeather = true
-    show_CurrentBiome = true

@@ -1,4 +1,0 @@
-define block ReinforcedCobblestoneStairs:
-    hardness = 10.0
-    block_type = "stairs"
-    texture = "reinforced_cobblestone"
