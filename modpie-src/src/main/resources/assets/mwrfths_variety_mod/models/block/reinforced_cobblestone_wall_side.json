@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_wall_side",
+  "textures": {
+    "wall": "mwrfths_variety_mod:block/reinforced_cobblestone"
+  }
+}

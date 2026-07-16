@@ -1,0 +1,4 @@
+define block ReinforcedCobblestoneWall:
+    hardness = 10.0
+    block_type = "wall"
+    texture = "reinforced_cobblestone"

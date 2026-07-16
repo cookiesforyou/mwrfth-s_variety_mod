@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "facing=east,half=bottom": { "model": "mwrfths_variety_mod:block/reinforced_cobblestone_stairs", "y": 90, "uvlock": true },
+    "facing=west,half=bottom": { "model": "mwrfths_variety_mod:block/reinforced_cobblestone_stairs", "y": 270, "uvlock": true },
+    "facing=south,half=bottom": { "model": "mwrfths_variety_mod:block/reinforced_cobblestone_stairs", "y": 180, "uvlock": true },
+    "facing=north,half=bottom": { "model": "mwrfths_variety_mod:block/reinforced_cobblestone_stairs", "uvlock": true },
+    "facing=east,half=top": { "model": "mwrfths_variety_mod:block/reinforced_cobblestone_stairs", "x": 180, "y": 90, "uvlock": true },
+    "facing=west,half=top": { "model": "mwrfths_variety_mod:block/reinforced_cobblestone_stairs", "x": 180, "y": 270, "uvlock": true },
+    "facing=south,half=top": { "model": "mwrfths_variety_mod:block/reinforced_cobblestone_stairs", "x": 180, "y": 180, "uvlock": true },
+    "facing=north,half=top": { "model": "mwrfths_variety_mod:block/reinforced_cobblestone_stairs", "x": 180, "uvlock": true }
+  }
+}
